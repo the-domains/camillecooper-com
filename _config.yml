@@ -1,0 +1,28 @@
+name: camillecooper.com
+favicon: null
+layout_spectrum: 0.6706425067968667
+typography_spectrum: 0.6507309509906918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7800150935072452
+  lightness: 0.8321265627164394
+  saturation: 0.38872871408239007
+  rhythmicContrast: 0.8081953374203295
+purpose: []
